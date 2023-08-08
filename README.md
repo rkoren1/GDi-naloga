@@ -1,2 +1,5 @@
 # GDi-naloga
-Vsaka naloga je v svojem branchu
+
+## C#
+
+Enostavna namizna aplikacija, ki prenese zip datoteko, jo odpakira in zapise vsebino txt datoteke v bazo.
